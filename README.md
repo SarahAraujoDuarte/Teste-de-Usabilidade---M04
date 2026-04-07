@@ -12,12 +12,12 @@ Esta atividade refere-se à entrega da semana 10 de teste de usabilidade com foc
 
 <h2 align="center">Home</h2>
 <p align="center">
-  <img src="assets/Imagem-home.jpeg" width="500">
+  <img src="Assets/Imagem-home.jpeg" width="500">
 </p>
 
 <h2 align="center">Criar Ocorrência</h2>
 <p align="center">
-  <img src="assets/Imagem-criar-ocorrencia.jpeg" width="500">
+  <img src="Assets/Imagem-criar-ocorrencia.jpeg" width="500">
 </p>
 
 **Descrição:**
