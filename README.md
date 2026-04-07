@@ -10,8 +10,15 @@ Esta atividade refere-se à entrega da semana 10 de teste de usabilidade com foc
 - Tela inicial (home)
 - Tela de criação de novas ocorrências
 
-**Prints:**
-*(Inserir imagens das telas ou do fluxo aqui)*
+<h2 align="center">Home</h2>
+<p align="center">
+  <img src="assets/Imagem-home.jpeg" width="500">
+</p>
+
+<h2 align="center">Criar Ocorrência</h2>
+<p align="center">
+  <img src="assets/Imagem-criar-ocorrencia.jpeg" width="500">
+</p>
 
 **Descrição:**
 A tela inicial apresenta as principais funcionalidades da aplicação, enquanto a tela de criação de ocorrências permite o registro de novos incidentes para atuação da equipe.
