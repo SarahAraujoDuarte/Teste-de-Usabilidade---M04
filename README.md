@@ -10,12 +10,12 @@ Esta atividade refere-se à entrega da semana 10 de teste de usabilidade com foc
 - Tela inicial (home)
 - Tela de criação de novas ocorrências
 
-<p align="center">Home</p>
+<p align="center">Tela -Home</p>
 <p align="center">
   <img src="Assets/Imagem-home.jpeg" width="500">
 </p>
 
-<h2 align="center">Criar Ocorrência</h2>
+<p align="center">Tela - Criar Ocorrência</p>
 <p align="center">
   <img src="Assets/Imagem-criar-ocorrencia.jpeg" width="500">
 </p>
