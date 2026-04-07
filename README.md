@@ -1,4 +1,3 @@
-# Teste-de-Usabilidade-M04
 # Teste de Usabilidade - Semana 10
 
 Esta atividade refere-se à entrega da semana 10 de teste de usabilidade com foco na técnica do funil. Essa técnica tem como objetivo avaliar a experiência do usuário através de perguntas estruturadas que buscam afunilar o escopo do teste, direcionando a análise para o objetivo principal da interação dentro da aplicação.
